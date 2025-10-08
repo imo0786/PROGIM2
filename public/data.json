@@ -1,0 +1,43 @@
+{
+  "projects": [],
+  "activities": [],
+  "catalogs": [
+    {
+      "id": "1",
+      "type": "state",
+      "name": "En proceso",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "type": "state",
+      "name": "Finalizado",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "type": "state",
+      "name": "Detenido",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "type": "assignee",
+      "name": "Juan Pérez",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "type": "assignee",
+      "name": "María García",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "type": "assignee",
+      "name": "Carlos López",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
+}
